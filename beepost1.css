@@ -36,7 +36,7 @@
   }
 /* ---------- TÍTULO ---------- */
   .bee-pst-ttle{
-    font-family: 'Electrog', sans-serif; /* con comillas y fallback */
+    font-family: 'Gotham', sans-serif; /* con comillas y fallback */
     font-size: 40px;
     letter-spacing: 2px;
     text-transform: uppercase;
